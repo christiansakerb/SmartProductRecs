@@ -1,11 +1,11 @@
 # Predicción de Siguiente Compra en Retail
-#### Este es un ejemplo del proyecto oficial de predicción de próximas compras de clientes. El código ha sido simplificado y se han eliminado las credenciales para dar una idea de la estructura del proyecto sin comprometer la privacidad o seguridad de la información.
-
+#### Este es un copia de mi proyecto oficial de predicción de próximas compras de clientes. El código ha sido simplificado y se han eliminado las credenciales para dar una idea de la estructura del proyecto sin comprometer la privacidad o seguridad de la información.
+El objetivo de este repositorio es dar una idea de la posibilidad y potencia del proyecto de recomendación personalizada a clientes.
 
 
 Este proyecto busca optimizar la personalización de recomnedaciones en retail mediante la predicción de los próximos productos que un cliente puede adquirir, basándose en su historial de compras y patrones de consumo de otros usuarios. El sistema ofrece recomendaciones personalizadas, generalizadas y de recompra para clientes conocidos, y también proporciona recomendaciones iniciales para clientes nuevos.
 
-![image](https://github.com/user-attachments/assets/e4e1f1e2-0ccb-46a9-acad-65f2925d710f)
+![image](https://github.com/user-attachments/assets/0d418e90-3fa2-48c5-b55c-026adc07f2f7)
 
 ## Descripción del Proyecto
 
