@@ -1,0 +1,40 @@
+title_app: 'Pasillo de Compras'
+version: '1.0.0'
+app_uvicor_env: 'prd'
+
+host_mlflow : ''
+Sep : '|'
+
+
+tipo_de_modelo_rec_pers: 'Personalizado_rec'
+tipo_de_modelo_rec_pers_global: 'Personalizado_rec_global'
+tipo_de_modelo_rec_genr: 'Generalizado_rec'
+run_apriori: 'f987ad2c4eb945b99e20da9964dbf345'
+
+
+Query_Productos_Atr:
+  dev: 'data/Prods_pkl/Portafolio_dw.Pkl'
+  prd: "Query"
+
+Query_Inflacion:
+  dev: "data/Prods_pkl/inflacion.Pkl"
+  prd: "Query"
+
+nuevo_umbral : 0.7
+
+modelo_nombre_pkl_apriori : 'Apriori.pkl'
+modelo_nombre_pkl_xgboost_stack : 'xgboost_stack.pkl'
+
+data_clientes_2016: 'data/Data_desde_2016.Pkl'  
+data_local_prods : 'data/Prods_pkl/Portafolio_dw.Pkl'
+data_local_cats : 'data/Prods_pkl/df_cat.Pkl'
+data_local_inflacion : 'data/Prods_pkl/inflacion.Pkl'
+
+metricas_names:
+- 'precision'
+- 'recall'
+- 'f1' 
+- 'accuracy' 
+- 'AUC_metric'
+
+
